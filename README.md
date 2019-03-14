@@ -9,4 +9,6 @@ The objectives are:
 - Is this configured securely?
 - Do you have any recommendations about how to make this better and explain why?
 
+You can use this postman collection to interact with the api: https://www.getpostman.com/collections/d9227c7817de311b9d97
+
 Don't worry if you don't know specifics about `django-rest-framework`, we're just looking to see your general approach.
