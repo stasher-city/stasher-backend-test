@@ -12,3 +12,5 @@ The objectives are:
 You can use this postman collection to interact with the api: https://www.getpostman.com/collections/d9227c7817de311b9d97
 
 Don't worry if you don't know specifics about `django-rest-framework`, we're just looking to see your general approach.
+
+To create the database tables, run: `docker-compose exec api python manage.py migrate`
